@@ -1,0 +1,10 @@
+#box{
+    height:200px;
+    width:300px;
+    background-color: aquamarine;
+}
+#responsive-box{
+    width: 50vw;
+    height: 50vh;
+    background-color: red;
+}
