@@ -1,10 +1,18 @@
-#box{
+.box{
     height:200px;
     width:300px;
     background-color: aquamarine;
 }
-#responsive-box{
+.responsive-box{
     width: 50vw;
     height: 50vh;
     background-color: red;
+}
+.padded-text{
+    background-color: orange;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+
 }
